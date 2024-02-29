@@ -1,0 +1,11 @@
+﻿  源.cpp
+D:\vsxm\12412\12412\function.h(133,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vsxm\12412\12412\function.h(152,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vsxm\12412\12412\function.h(178,17): warning C4305: “=”: 从“double”到“float”截断
+D:\vsxm\12412\12412\function.h(180,62): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+LINK : fatal error LNK1104: 无法打开文件“opencv_world341d.lib”
+E:\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6006: “link.exe”已退出，代码为 1104。

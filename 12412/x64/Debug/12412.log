@@ -1,0 +1,8 @@
+﻿  ImageDefogging.cpp
+D:\vsxm\12412\12412\ImageDefogging.cpp(47,48): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vsxm\12412\12412\ImageDefogging.cpp(49,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vsxm\12412\12412\ImageDefogging.cpp(150,20): warning C4305: “初始化”: 从“double”到“float”截断
+D:\vsxm\12412\12412\ImageDefogging.cpp(68,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vsxm\12412\12412\ImageDefogging.cpp(91): message : 查看对正在编译的函数 模板 实例化“std::vector<int,std::allocator<int>> argsort<int>(const std::vector<int,std::allocator<int>> &)”的引用
+D:\vsxm\12412\12412\ImageDefogging.cpp(68,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  12412.vcxproj -> D:\vsxm\12412\x64\Debug\12412.exe
